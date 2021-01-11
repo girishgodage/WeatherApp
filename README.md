@@ -7,5 +7,7 @@
 This is a code repository for react Weather app.You can enter the City name and app will
 display current weather of the city.
 
+In this app, we're going to use React with service workers.
+
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
